@@ -7,7 +7,7 @@
 
 ## Our Mission
 
-At 2050 Materials, we aim to seamlessly integrate sustainability data into the digital design process. We enable architects, designers, and engineers to make real-time embodied impact calculations, thereby fostering sustainable practices in construction from the ground up.
+At [2050 Materials](https://2050-materials.com/sustainability-data-api/), we aim to seamlessly integrate sustainability data into the digital design process. We enable architects, designers, and engineers to make real-time embodied impact calculations, thereby fostering sustainable practices in construction from the ground up.
 
 ## Features
 
