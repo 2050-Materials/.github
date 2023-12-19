@@ -11,7 +11,7 @@ At [2050 Materials](https://2050-materials.com/sustainability-data-api/), we aim
 
 ## Features
 
-- **API-First Approach:** Our systems are built to integrate with a variety of platforms, ensuring that sustainability data is accessible where and when you need it.
+- **[API-First Approach](https://2050-materials.com/sustainability-data-api/):** Our systems are built to integrate with a variety of platforms, ensuring that sustainability data is accessible where and when you need it.
 - **Real-Time Calculations:** Instantaneous embodied impact calculations allow for agile decision-making in the design process.
 - **Extensive Database:** Access a comprehensive collection of data regarding the climate impact of various building materials.
 
